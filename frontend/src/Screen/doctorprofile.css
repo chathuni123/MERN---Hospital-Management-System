@@ -1,0 +1,25 @@
+.custom-body {
+  padding-top: 5vh;
+}
+
+.navigation-panel {
+  width: 22vw;
+  height: fit-content;
+  padding: 2vh;
+  box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  margin: auto;
+  margin-bottom: 3vh;
+  padding-top: 1.5vh;
+}
+
+.custom-dynamic-content-body {
+  width: 50vw;
+  height: fit-content;
+  padding: 2vh;
+  box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  margin: auto;
+  margin-bottom: 3vh;
+  padding-top: 1.5vh;
+}

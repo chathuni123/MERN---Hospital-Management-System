@@ -1,0 +1,22 @@
+.medicineOrder-form-body {
+    padding: 6vh;
+  margin-left: 6vh;
+  margin-right: 10vh;
+  height: fit-content;
+  box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.2);
+  border-radius: 6px;
+  font-size: 1rem;
+  background-color: rgb(251, 252, 253);
+  }
+
+  .medicineOrder-top-title {
+    font-family: "Mate SC", serif;
+    font-size: 2rem;
+    text-align: center;
+   
+  }
+
+  .home{
+      background-color: rgb(224, 221, 219);
+  }
+  

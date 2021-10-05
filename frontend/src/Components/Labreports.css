@@ -1,0 +1,159 @@
+@import url("https://cdn.syncfusion.com/ej2/material.css");
+
+
+.noticeContainer{
+    padding: 1em;
+    height: 30em;
+    background-color: rgb(188, 214, 221);
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 15px;
+    padding-bottom: 0.5em;
+    width:80em;
+    
+}
+
+.labrbtn{
+    width:45rem;
+    font-size: 18px;
+    border-radius: 300px;
+}
+
+.labrbtnr{
+    width:39rem;
+    margin-left:262px;
+    font-size: 18px;
+    border-radius: 300px;
+}
+
+.labrbtn:hover{
+    background-color: rgb(47, 47, 94);
+}
+.labrbtnr:hover{
+    background-color: rgb(47, 47, 94);
+}
+
+
+
+.searchtext{
+    margin-left: 55rem;
+    border-color: midnightblue;
+    border-style: solid;
+    border-radius: 10px;
+    margin-top: 20px;
+    width: 25rem;
+    color: midnightblue;
+    padding: 5px;
+
+}
+
+
+
+.actionbtnE{
+    width:100px;
+    height: 35px;
+    border-radius: 30px;
+    font-size: 16px;
+    background-color: rgb(117, 130, 168);
+    border-color: rgb(0, 2, 3);
+    
+}
+
+
+
+.actionbtnE{
+    width: 10em;
+    margin-bottom: 20px;
+    margin-left: 12px;
+    font-weight: 500;
+    border-radius: 300px;
+    height: 2em;
+    font-size: 18px;
+ }
+ .actionbtnpdf{
+   width: 10em;
+   margin-bottom: 20px;
+   margin-left: 10px;
+   background-color: #527C82   ;
+   font-weight: 500;
+   border-color: darkslategray;
+   border-radius: 300px;
+   height: 2em;
+   font-size: 18px;
+}
+ .actionbtnR{
+   width: 10em;
+   margin-bottom: 20px;
+   background-color: rgb(175, 96, 122);
+   margin-left: 10px;
+   font-weight: 500;
+   border-color: #BB1836;
+   border-radius: 300px;
+   height: 2em;
+   font-size: 18px;
+}
+.actionbtnR:hover{
+ background-color: #BB1836;
+}
+
+ .actionbtnE:hover{
+   background-color: rgb(47, 47, 94);
+}
+
+.actionbtnpdf:hover{
+ background-color: #225C64 ;
+ color: aliceblue;
+}
+
+.testDisplay{
+    width: 80em;
+    margin-left: 20px;
+    height: 40em;
+    overflow:scroll;
+    margin-top: 20px;
+    margin-left: 40px;
+    margin-bottom: 40px;
+    background-color: rgb(10, 82, 110);
+    scroll-behavior: smooth;
+    scroll-padding: 10%;
+    
+  }
+  
+  .singleTest{
+      width: 60em;
+      height: 16em;
+      overflow:hidden;
+      margin-left: 20px;
+      margin-top: 3px;
+      margin-bottom: 3px;
+      font-size: 20px;
+  }
+  .rowcolumn{
+      width:40rem;
+  }
+ 
+  .uppermargin{
+      margin-top:0.5rem ;
+      width:70rem;
+  }
+
+  .topics{
+        font-size: 29px;
+        font-family: cursive;
+        color: rgb(6, 87, 107);
+        font-style: bold;
+        font-weight: 800;
+        margin-left: 35rem;
+        margin-top: 30px;
+  }
+
+  .senderContainer{
+      height: 30rem;
+      width: 50rem;
+      margin-top: 15px;
+      margin-bottom: 30px;
+      margin-left: 15rem;
+      background-color: rgb(115, 149, 161);
+      padding: 2rem;
+      border-radius: 20px;
+  }

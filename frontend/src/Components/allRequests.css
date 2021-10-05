@@ -1,0 +1,64 @@
+.requests{
+    height: 45rem;
+    background-color:rgb(255, 255, 255);
+}
+.full{
+    width:70rem;
+    height: 30rem;
+    overflow: scroll;
+    background-color: rgb(192, 222, 230);
+}
+
+.requestbtn{
+    width:45rem;
+    font-size: 18px;
+    border-radius: 300px;
+}
+
+.requestbtnr{
+    width:39rem;
+    margin-left:262px;
+    font-size: 18px;
+    border-radius: 300px;
+}
+
+.requestbtn:hover{
+    background-color: rgb(47, 47, 94);
+}
+.requestbtnr:hover{
+    background-color: rgb(47, 47, 94);
+}
+
+.searchtextAll{
+    margin-left: 54rem;
+    border-color: midnightblue;
+    border-style: solid;
+    border-radius: 10px;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    width: 22rem;
+    color: midnightblue;
+    padding: 5px;
+
+}
+
+.RcardOne{
+    height:24rem;
+    margin-top: 20px;
+    margin-left: 150px;
+    margin-right: 50px;
+    margin-bottom: 20px;
+    border-radius: 20px;
+    background-color: rgb(125, 167, 167);
+    
+}
+
+.textTopic{
+    font-size: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 27rem;
+    color:rgb(37, 3, 61);
+    font-weight: 700;
+    font-family: system-ui;
+}

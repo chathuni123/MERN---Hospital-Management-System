@@ -1,0 +1,99 @@
+video{
+    object-fit: cover;
+    margin-top: 0vh;
+    width: 100%;
+    height: 23em;
+    position: sticky;
+    z-index: -1;
+}
+
+.home-container{
+    height: 257vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-shadow: inset 0 0 0 15px rgba(240, 239, 243, 0.4);
+    object-fit: contain;
+}
+
+ .homefirst {
+    color: rgb(2, 2, 39);
+    font-size: 50px;
+    margin-top: 0px;
+    margin-left: 12rem;
+    text-align: center;
+    font-weight: bold;
+}
+.homesecond {
+    color: rgb(2, 2, 39);
+    font-size: 50px;
+    margin-top: 0px;
+    text-align: center;
+    margin-left: 14rem;
+    
+}
+
+.Hbtn{
+    padding: 12px 20px;
+    
+    border-radius: 300px;
+    outline: none;
+    
+    cursor: pointer;
+    font-size: 20px;
+    background: rgb(7, 3, 44);
+    color: #fefeff;
+    width:700px;
+    border: 1px solid;
+    transition: all 0.3s ease-out;
+}
+
+.Hbtn:hover{
+    background: rgb(7, 3, 44);
+    color: #baaece;
+    transition: all 0.3s ease-out;
+    margin-left: 50px;
+    transition: 250ms;
+}
+
+
+
+.homeparag{
+    color: rgb(2, 2, 39);
+    font-size: 23px;
+    margin-top: 35px;
+    text-align: center;
+    margin-left: 11rem;
+}
+
+.homethird{
+    color: rgb(2, 2, 39);
+    font-size: 35px;
+    text-align: center;
+}
+
+
+
+
+.noticeDisplay{
+  width: 1000px;
+  margin-left: 20px;
+  height: 300px;
+  overflow:scroll;
+  margin-bottom: 70px;
+  background-color: rgb(233, 235, 240);
+  scroll-behavior: smooth;
+  scroll-padding: 10%;
+  
+}
+
+.singleNotice{
+    width: 900px;
+    height: 100px;
+    overflow:hidden;
+    margin-left: 20px;
+    margin-top: 10px;
+    font-size: 20px;
+}

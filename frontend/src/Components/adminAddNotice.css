@@ -1,0 +1,63 @@
+.noticeContainer{
+    background-color: rgb(255, 255, 255);
+    margin-right: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height:100rem;
+    width: 10rem;
+    border-radius: 25px;
+}
+
+.adminbtn{
+    width:250px;
+    height: 40px;
+    border-radius: 30px;
+    margin-top: 10px;
+    margin-left: 440px;
+    background-color: rgb(148, 153, 177);
+    border-color: rgb(0, 2, 3);
+    
+}
+
+.adminbtn:hover{
+    background: rgb(7, 3, 44);
+    color: #baaece;
+}
+
+.actionbtnE{
+    width:100px;
+    height: 40px;
+    border-radius: 30px;
+    background-color: rgb(101, 103, 109);
+    border-color: rgb(0, 2, 3);
+    
+}
+.actionbtnE:hover{
+    background: rgb(40, 36, 73);
+    color: #efecf5;
+}
+
+.actionbtnR{
+    width:100px;
+    height: 40px;
+    border-radius: 30px;
+    background-color: rgb(158, 71, 100);
+    
+    border-color: rgb(0, 2, 3);
+}
+
+.actionbtnR:hover{
+    background: rgb(104, 26, 52);
+    color: #f5f4f8;
+}
+
+
+.graph{
+    margin-right: 40px;
+}
+.noticetopic{
+    margin-left: 35rem;
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(4, 4, 39);
+}

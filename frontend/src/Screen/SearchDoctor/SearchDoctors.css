@@ -1,0 +1,74 @@
+.doc-home{
+    background-color:rgba(236, 13, 136, 0.384);
+    height: 78vh;
+    width:80vh;
+    padding:6vh;
+
+    background:linear-gradient(
+        180deg,
+        rgba(238,69,64,1) 0%,
+        rgba(199,44,65,1) 15%,
+        rgba(128,19,54,1) 30%,
+        rgba(81,10,50,1) 45%,
+        rgba(45,20,44,1) 100%
+
+    );
+}
+
+.card:hover{
+ box-shadow: 5px 10px 20px 1px rgba(255, 255, 255, 0.273) !important ;
+ transition: all 0.7s linear;
+}
+
+
+.card-body{
+    padding: 2rem 0 !important;
+}
+
+.cards-text{
+    padding: 0.3rem 1rem;
+    font-size: 1rem;
+    background-color: rgb(213, 230, 138);
+}
+.column {
+    float: left;
+    width: 30%;
+    padding: 0 2px;
+  }
+
+  .row {margin: 0 -5px;}
+
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  @media screen and (max-width: 600px) {
+    .column {
+      width: 100%;
+      display: block;
+      margin-bottom: 20px;
+    }
+  }
+
+  .home{
+    background-color: rgb(224, 221, 219);
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); 
+    padding: 16px;
+    text-align: center;
+    background-color: #ffffff;
+  }
+
+  .title{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 400;
+    font-size: x-large;
+    font-style: bold;
+  }
+
+
+

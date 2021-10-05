@@ -1,0 +1,33 @@
+.lkcustom-pp {
+  margin: auto;
+  width: 17vw;
+  height: 17vw;
+  padding: 0;
+}
+
+.lkcustom-pp-img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  padding: 0;
+}
+
+.lklabelstyle{  font-style: normal;
+      color: black;
+      text-decoration: black;
+      align-self: auto;
+    }
+
+.lkfilestyle{  font-style: normal;
+  color: black;
+  text-decoration: black;
+}
+
+.lksize{
+  Width: 200;
+  max-height: 400px; 
+}
+
+.lkcolor-profile-text{
+  color: rgb(110, 121, 184);
+}

@@ -1,0 +1,68 @@
+
+@import url("https://cdn.syncfusion.com/ej2/material.css");
+.addRContainer{
+    background-color: rgb(158, 184, 194);
+    margin-left: 250px;
+    margin-right: 20px;
+    margin-top: 60px;
+    margin-bottom: 40px;
+    padding: 2.5em;
+    font-weight: 500;
+    font-size: 1.2em;
+    width: 55rem;
+    box-shadow: 62px -30px rgb(26, 83, 105);
+    height:53rem;
+    border-radius: 30px;
+}
+
+.addtextTopic{
+font-size: 32px;
+font-weight: bold;
+margin-left: 15rem;
+margin-bottom: 30px;
+}
+
+.repbtn{
+    width:250px;
+    height: 40px;
+    border-radius: 30px;
+    margin-top: 40px;
+    margin-left: 260px;
+    background-color: rgb(46, 46, 54);
+    color: mintcream;
+    border-color: rgb(2, 12, 36);
+    
+}
+
+.repbtn:hover{
+    background: rgb(7, 3, 44);
+    color: #baaece;
+    font-weight: 500;
+}
+
+.addbtn{
+    width:45rem;
+    font-size: 18px;
+    border-radius: 300px;
+}
+
+.addbtnr{
+    width:39rem;
+    margin-left:262px;
+    font-size: 18px;
+    border-radius: 300px;
+    
+}
+
+.addbtn:hover{
+    background-color: rgb(47, 47, 94);
+}
+.addbtnr:hover{
+    background-color: rgb(47, 47, 94);
+}
+
+
+
+
+
+

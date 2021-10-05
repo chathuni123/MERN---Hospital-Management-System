@@ -1,0 +1,18 @@
+.custom-style-header-navlinks {
+  margin-left: 1vw;
+  font-size: 1rem;
+}
+
+.custome-nav-bar-styles {
+  background-color: rgb(27, 15, 56);
+}
+
+.web-brand-name {
+  font-size: 3.3rem;
+  padding-left: 3vw;
+  font-family: "Bradley Hand", cursive	;
+}
+
+.ml-auto {
+  margin-left: auto!important;
+}

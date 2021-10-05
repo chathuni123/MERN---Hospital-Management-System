@@ -1,0 +1,188 @@
+@import url("https://cdn.syncfusion.com/ej2/material.css");
+.formset{
+        margin-left: 9vh;
+        margin-right: 10vh;
+        margin-bottom: 20vh;
+        margin-top: 10vh;
+        
+        }
+.formsetfeed {
+    margin-left: 30vh;
+    margin-right: 30vh;
+    margin-bottom: 20vh;
+    margin-top: 10vh;
+    
+    }       
+.StockTable{ 
+    margin-left: 10vh;
+    margin-right: 10vh;
+    /* margin-bottom: 2vh; */
+    margin-top: 5vh;
+    
+}
+.btn-primary{
+    margin-right: 2vh;
+    
+    }
+.item-edit-form{
+    margin-left: 12vh;
+    margin-right: 9vh;
+     margin-top: 10vh;
+}      
+.PnavBar{
+    margin-left: 10vh;
+    margin-right: 10vh;
+    outline: solid rgb(17, 2, 53);
+   
+        
+} 
+.Nav-Stock{
+    margin-left: 35vh;
+    font-weight: bold;
+} 
+.Nav-Order{
+    margin-left: 65vh;
+   
+    font-weight: bold;
+}
+.Pharmacist_pro_container{
+    margin-left: 10vh;
+    margin-right: 10vh;
+    margin-bottom: 5vh;
+}
+.custom-body{
+    margin-bottom: 10vh;
+}
+.repgen{
+    margin-top: 5vh;
+}
+.bt-sm {
+    background-color:rgb(143, 136, 236);
+    margin-left: 1vh;
+
+    
+}
+.img{
+    width: 200px;  
+height: 200px;  
+text-align: center;  
+padding: 15px;
+   
+ }
+.OrderTable{
+    margin-left: 20vh;
+    margin-right: 20vh;
+   
+    margin-top: 10vh;
+    
+} 
+.btn-tb{
+    margin-top: 10vh;
+}
+.data{
+    margin-top: 200vh;
+}
+.addItembtn{
+    /* margin-left: 145.5vh; */
+    margin-right: 145.5vh;
+    
+}
+.searchbx{
+    margin-left: 55.5vh;
+    padding-bottom: 5px;
+    margin-bottom: 3vh;
+    padding-right:40vh ;
+   
+}
+/* new after */
+.containerfeed{
+    background-image: url("https://res.cloudinary.com/dzvbjfdsz/image/upload/v1632832146/constructive_feedback_21279481_r3hglp.jpg");
+    background-size: cover;
+    /* padding-bottom: 0.5vh;
+    padding-top: 0.5vh;
+    margin-left: 20vh;
+    margin-right: 20vh;
+    margin-top: 2vh;
+    margin-bottom: 5vh; */
+    border:solid black;
+    
+    
+}
+.Allfeedcontainer{
+    background-image: url("https://res.cloudinary.com/dzvbjfdsz/image/upload/v1632857540/download_ddd5q8.jpg");
+    background-size:contain;
+    border:solid black;
+    background-repeat: no-repeat;
+    
+}
+.AllOrdercontainer{
+  background-image:url("https://res.cloudinary.com/dzvbjfdsz/image/upload/v1632926989/shelves-wall-background-product-display-260nw-444998914_ocy9nd.jpg");
+  background-size: cover;
+}
+
+.Allstockcontainer{
+background-image: url("https://res.cloudinary.com/dzvbjfdsz/image/upload/v1632925716/imageedit_1_8039376962_wcuf0y.png");
+background-size: cover;
+
+}
+
+.column2EditItem {
+    float: right;
+    width: 50%;
+   
+  }
+  .column1EditItem{
+    float: left;
+    width: 50%;
+    background-color:rgb(201, 198, 198);
+  
+    padding-top: 5vh;
+    padding-left: 3vh;
+    padding-right: 3vh;
+    margin-bottom: 15vh;
+    border-radius: 3vh;
+    border: solid black;
+    padding-bottom: 2vh;
+    
+       
+  }
+  
+  /* Clear floats after the columns */
+  .rowEditItem:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+ 
+  .item-edit-container{
+    background-image: url("https://res.cloudinary.com/dzvbjfdsz/image/upload/v1632914840/pills_whv6f6.webp");
+    background-size: cover;
+}
+.AddItemContainer{
+    background-image: url("https://res.cloudinary.com/dzvbjfdsz/image/upload/v1632928447/photo-1587370560942-ad2a04eabb6d_lwij76.jpg");
+    background-size: cover;
+   
+}
+.column2AddItem{
+    float: left;
+    width: 50%;
+
+}
+.column1AddItem{
+    float: right;
+    width: 50%;
+    background-color:rgb(201, 198, 198);
+  
+    padding-top: 5vh;
+    padding-left: 3vh;
+    padding-right: 3vh;
+    margin-bottom: 15vh;
+    border-radius: 3vh;
+    border: solid black;
+    padding-bottom: 2vh;
+
+}
+.OrderDEliveryContainer{
+    background-image: url("https://res.cloudinary.com/dzvbjfdsz/image/upload/v1632930381/photo-1584362917165-526a968579e8_kjmrrk.jpg");
+    background-size: cover;
+}

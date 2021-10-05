@@ -1,0 +1,61 @@
+.Hcard-container{
+  margin-left: 50px;
+  width: 292px;
+  height: 400px;
+  overflow:hidden;
+  box-shadow: 0px 0px 15px -5px;
+  transition: 0.5s;
+  animation: initial;
+  z-index: 1;
+  background: rgb(213, 208, 228);
+  border-radius: 30px;
+}
+
+.Hcard-container:hover{
+  transform: scale(1.1);
+  box-shadow: 0px 0px 15px 0px;
+}
+.Himage-container img{
+  overflow: hidden;
+  height: 200px;
+  z-index: 2;
+  object-fit: cover;
+
+}
+
+.Hcard-content{
+  margin: 1rem;
+  margin-top: 0rem;
+  font-size: 5px;
+  height: 10rem;
+}
+
+.Hcard-body{
+  font-size: 1px;
+  height: 5px;
+
+}
+.htopic{
+  margin: 0;
+  padding: 0;
+  color: midnightblue;
+  font-size: 20px;
+  
+}
+.hpara{
+  margin: 0;
+  padding: 0;
+  font-size: 20px;
+  
+}
+
+
+
+.Hcard-title{
+  margin-bottom: 0.1rem;
+}
+
+
+
+
+
